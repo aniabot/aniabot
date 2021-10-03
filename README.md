@@ -1,4 +1,4 @@
-### Hi there 👋
+### o hai world 👋
 
 <!--
 **aniabot/aniabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
